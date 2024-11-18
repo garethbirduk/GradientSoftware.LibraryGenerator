@@ -1,4 +1,4 @@
-﻿namespace REPONAME
+﻿namespace LibraryGenerator
 {
     public class MyClass
     {
