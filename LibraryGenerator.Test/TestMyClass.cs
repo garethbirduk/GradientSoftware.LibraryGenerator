@@ -1,4 +1,4 @@
-﻿namespace REPONAME.Test
+﻿namespace LibraryGenerator.Test
 {
     [TestClass]
     public class TestMyClass
