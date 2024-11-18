@@ -16,7 +16,7 @@
     <PackageTags>utils; gradient; software</PackageTags>
     <RepositoryUrl>https://github.com/garethbirduk/GradientSoftware.LibraryGenerator</RepositoryUrl>
     <PackageId>GradientSoftware.$(AssemblyName)</PackageId>
-    <Version>0.0.1</Version>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
